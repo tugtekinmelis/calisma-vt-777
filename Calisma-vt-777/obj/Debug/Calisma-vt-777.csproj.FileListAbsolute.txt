@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Calisma-vt-777\Calisma-vt-777\bin\Debug\Calisma-vt-777.exe.config
+C:\Users\User\source\repos\Calisma-vt-777\Calisma-vt-777\bin\Debug\Calisma-vt-777.exe
+C:\Users\User\source\repos\Calisma-vt-777\Calisma-vt-777\bin\Debug\Calisma-vt-777.pdb
+C:\Users\User\source\repos\Calisma-vt-777\Calisma-vt-777\bin\Debug\MySql.Data.dll
+C:\Users\User\source\repos\Calisma-vt-777\Calisma-vt-777\obj\Debug\Calisma-vt-777.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Calisma-vt-777\Calisma-vt-777\obj\Debug\Calisma-vt-777.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Calisma-vt-777\Calisma-vt-777\obj\Debug\Calisma_vt_777.Form1.resources
+C:\Users\User\source\repos\Calisma-vt-777\Calisma-vt-777\obj\Debug\Calisma_vt_777.Properties.Resources.resources
+C:\Users\User\source\repos\Calisma-vt-777\Calisma-vt-777\obj\Debug\Calisma-vt-777.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Calisma-vt-777\Calisma-vt-777\obj\Debug\Calisma-vt-777.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Calisma-vt-777\Calisma-vt-777\obj\Debug\Calisma-vt-777.csproj.CopyComplete
+C:\Users\User\source\repos\Calisma-vt-777\Calisma-vt-777\obj\Debug\Calisma-vt-777.exe
+C:\Users\User\source\repos\Calisma-vt-777\Calisma-vt-777\obj\Debug\Calisma-vt-777.pdb
+C:\Users\User\source\repos\Calisma-vt-777\Calisma-vt-777\obj\Debug\Calisma_vt_777.Form2.resources
+C:\Users\User\source\repos\Calisma-vt-777\Calisma-vt-777\obj\Debug\Calisma_vt_777.FormFilmElestiri.resources
